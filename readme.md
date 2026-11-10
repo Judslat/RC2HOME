@@ -27,7 +27,7 @@ Developed and tested on the stock DJI RC 2 firmware.
 
 | Download | Link |
 |---|---|
-| RC2HOME APK | Coming soon — GitHub Releases |
+| RC2HOME APK |[Download RC2HOME](https://github.com/Judslat/RC2HOME/releases/latest) |
 | Helper Apps (ZIP) | [Download Helper Apps](https://freefcc.duckdns.org/downloads/freefcc-helpers.zip) |
 
 **Note:** The Helper Apps archive is hosted by the SkylabFCCfree project and is not maintained by RC2HOME. Review the included applications and their compatibility before installing.
