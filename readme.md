@@ -36,6 +36,8 @@ Developed and tested on the stock DJI RC 2 firmware.
 
 RC2HOME has been tested on the DJI RC 2 using a compatible Android PackageInstaller.
 
+RC2HOME can be removed easily by doing a full controller reset All Apps>Settings>System>Reset Options>Erase all data (factory reset)
+
 1. Download the RC2HOME APK and the required installation utilities.
 2. Transfer the installation files to the controller.
 3. Install the compatible PackageInstaller if required.
@@ -65,22 +67,17 @@ Project package: `uk.flymyphantom.rc2launcher`
 RC2HOME is an independent community project and is not affiliated with, endorsed by, or sponsored by DJI.
 
 
-
-
-
 ## Screenshots
 
-### RC2HOME Main Screen
+### RC2HOME Main Screen <img width="1920" height="1080" alt="Git1" src="https://github.com/user-attachments/assets/8979364b-19b0-4511-982e-62c2f97938ac" />
 
-![RC2HOME Main Screen][(PASTE_FIRST_IMAGE_URL_HERE)](https://private-user-images.githubusercontent.com/48607883/701238066-b4cd62dd-deef-44c8-b049-609b4628ee7f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzMzI0NzgsIm5iZiI6MTc5NDMzMjE3OCwicGF0aCI6Ii80ODYwNzg4My83MDEyMzgwNjYtYjRjZDYyZGQtZGVlZi00NGM4LWIwNDktNjA5YjQ2MjhlZTdmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTEwVDE3MzYxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThlNTk1Y2Q2ZTRhYmViZDc0NmIxMjlkZTkyMGY4N2I1MDcxMGMwZTM4MDg3NDM5NGMyOGJkMWI5OTQyODZjMmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.g2gai04xWwJidIhAbGyPZ-FGLV82xLnnZYqPDAgp0S0)
 
-### Application Drawer
+### Application Drawer <img width="1920" height="1080" alt="Git3" src="https://github.com/user-attachments/assets/f5113407-d36a-4440-b289-3315dd37cb07" />
 
-![RC2HOME Application Drawer]https://private-user-images.githubusercontent.com/48607883/701238262-dcd2bc2d-6a54-45c0-bf56-c5099752cbd7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzMzI0NzgsIm5iZiI6MTc5NDMzMjE3OCwicGF0aCI6Ii80ODYwNzg4My83MDEyMzgyNjItZGNkMmJjMmQtNmE1NC00NWMwLWJmNTYtYzUwOTk3NTJjYmQ3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTEwVDE3MzYxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRhYTgyNzY1MTNlOTY1Y2NkMGRkZmFkOWRkNGNlMGUwMjc3ZjJmYmY3YzdiZjEyZmQ5ZjQxNzkwNGY2NDdkMDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.9sJLGMrv7K1PwsAbSAqacQ2VFvNcDHs6v0I4sZfOQ4w
+### Wallpaper Gallery <img width="1920" height="1080" alt="Git2" src="https://github.com/user-attachments/assets/fa31f6e6-a93c-4f35-8d85-63440ca0ee5e" />
 
-### Wallpaper Gallery
 
-![RC2HOME Wallpaper Gallery]https://private-user-images.githubusercontent.com/48607883/701238402-e5f825c4-21eb-451d-b39c-d0ac088bcffc.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzMzI0NzgsIm5iZiI6MTc5NDMzMjE3OCwicGF0aCI6Ii80ODYwNzg4My83MDEyMzg0MDItZTVmODI1YzQtMjFlYi00NTFkLWIzOWMtZDBhYzA4OGJjZmZjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTEwVDE3MzYxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg1ZGVjZDFmOWVjYzMwMWRjZjRjY2Q2MjlmZDRmYmRiMzM5ZTM5MWZiNGU3ZTAwMDUzNzNhZTdmODAyYjRjZDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.CdYKRjzAtlfo_hUB-SUS2xI4mUjvIGluoPjU8rHD67Q
+
 
 
 
